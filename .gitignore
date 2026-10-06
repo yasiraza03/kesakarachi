@@ -9,3 +9,5 @@ next-env.d.ts
 npm-debug.log*
 .DS_Store
 public/maplibre
+pnpm-lock.yaml
+pnpm-workspace.yaml
