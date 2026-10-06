@@ -154,7 +154,9 @@ npm run build
 
 ## Deployment
 
-Vercel, nothing else. Import the GitHub repo at [vercel.com/new](https://vercel.com/new), accept the defaults (framework: Next.js). Every push to `main` deploys. No environment variables, no separate server, no Python, no Docker.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyasiraza03%2Fkesakarachi)
+
+Vercel, nothing else. Import the GitHub repo at [vercel.com/new](https://vercel.com/new) (or use the button above), accept the defaults (framework: Next.js). Every push to `main` deploys. No environment variables, no separate server, no Python, no Docker.
 
 ## Data attribution
 
