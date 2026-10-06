@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.scratch
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+.DS_Store
+public/maplibre
